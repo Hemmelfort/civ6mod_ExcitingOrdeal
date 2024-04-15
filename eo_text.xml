@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+    <BaseGameText>
+        <Row Tag="LOC_EXCITED_LEVEL_NAME">
+            <Text>Exciting Level</Text>
+        </Row>
+        <Row Tag="LOC_EXCITED_LEVEL_DESC">
+            <Text>The probability of barbarian camps appearing.(Zero means disabled)</Text>
+        </Row>
+    </BaseGameText>
+
+    <LocalizedText>
+        <Row Tag="LOC_EXCITED_LEVEL_NAME" Language="zh_Hans_CN">
+            <Text>刺激程度</Text>
+        </Row>
+        <Row Tag="LOC_EXCITED_LEVEL_DESC" Language="zh_Hans_CN">
+            <Text>越高则蛮族营地出现的概率越大（0为关闭）</Text>
+        </Row>
+    </LocalizedText>
+</GameInfo>
